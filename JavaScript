@@ -1,0 +1,53 @@
+Perfect ✨ Deepika!
+
+Let’s upgrade your royal bronze portfolio with animated shining particles (stars) in the background. This will make the whole theme more eye-catching and elegant.
+
+We’ll use a canvas animation in JavaScript for the glowing particles.
+
+---
+
+Updated Code with Animated Particles
+
+1. index.html
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Deepika's Portfolio</title>
+
+  
+
+  <!-- Google Font (Noelan / cursive style) -->
+
+  <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet">
+
+  <!-- CSS Link -->
+
+  <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+  <!-- Background Canvas for Particles -->
+
+  <canvas id="particles"></canvas>
+
+  <!-- Header -->
+
+  <header>
+
+    <h1 class="glow-text">Deepika Sri</h1>
+
+    <p class="subtitle">Aspiring Developer | Designer | Creator</p>
+
+  </header>
+
+  <!-- Navigation -->
